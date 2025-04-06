@@ -11,6 +11,9 @@ scikit-learn
 statsmodels
 scipy
 openpyxl
+python-dotenv
+requests
+
 # Providers to get financial information
 pandas-datareader
 
@@ -23,6 +26,7 @@ nasdaq-data-link
 
 # Binance
 python-binance
+#binance
 
 # Investing
 investpy
