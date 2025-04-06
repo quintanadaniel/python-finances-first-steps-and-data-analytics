@@ -1,8 +1,8 @@
-## Learning Python for Finances and Data Analytics
+# Learning Python for Finances and Data Analytics
 
 Simple repository where we use different clients to get all the financial information for doing calculates and apply prognostics to get possible predictions
 
-# Install the project
+## Install the project
 ```shell
 pip install -r requirements.txt
 ```
