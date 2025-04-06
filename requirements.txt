@@ -1,0 +1,29 @@
+jupyter
+numpy
+polars
+pandas
+selenium
+beautifulsoup4
+webdriver-manager
+matplotlib
+nbimporter
+scikit-learn
+statsmodels
+scipy
+openpyxl
+# Providers to get financial information
+pandas-datareader
+
+# Yahoo finance
+yfinance
+
+# Nasdaq data link
+quandl
+nasdaq-data-link
+
+# Binance
+python-binance
+
+# Investing
+investpy
+investiny
